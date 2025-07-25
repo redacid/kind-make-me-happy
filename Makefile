@@ -23,6 +23,7 @@ all: help
 
 # https://kind.sigs.k8s.io/docs/user/quick-start/#installation
 # https://hub.docker.com/r/kindest/node/tags
+# https://github.com/kind-ci/examples/blob/master/.gitlab-ci.yml
 
 ## Kind help
 kind-help:
